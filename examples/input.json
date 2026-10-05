@@ -1,0 +1,8 @@
+{
+  "searchQueries": [
+    "charizard"
+  ],
+  "productLine": "pokemon",
+  "maxProductsToScan": 30,
+  "maxItems": 50
+}
